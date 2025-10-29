@@ -1,0 +1,4 @@
+Route::middleware([...])
+     ->prefix('...')
+     ->controller(...)
+     ->group(function () {...});
