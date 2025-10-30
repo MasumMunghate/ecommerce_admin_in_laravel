@@ -1,6 +1,6 @@
-@extends('layouts.master')
+<!-- @extends('layouts.master')
 
-@section('content')
+@section('content') -->
 
 <div class="container w-75 d-flex flex-column justify-content-center align-items-center mt-5">
     <h4>Admin Login Form</h4>
@@ -20,4 +20,4 @@
     </form>
 </div>
 
-@endsection
+<!-- @endsection -->

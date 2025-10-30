@@ -1,8 +1,8 @@
 
 
-@extends('layouts.master')
+<!-- @extends('layouts.master') -->
 <!-- @section('title', 'All Users') -->
-@section('content')
+<!-- @section('content') -->
 <div class="text-primary">
   <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
       <div class="navbar-nav align-items-center">
@@ -102,4 +102,4 @@
 </div>
 </div>
 
-@endsection
+<!-- @endsection -->
